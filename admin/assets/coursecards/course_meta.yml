@@ -1,13 +1,13 @@
 ---
 ## This Document Provides the Front Matter and Metadata for the Course Information page used in the modernapps.ninja homepage and the member profile page.
 ### Hugo Template Metadata
-title: "New ModernApps Ninja Course Template"
-date: "2021-02-16T03:46:00Z"
+title: "Intro to VMware Tanzu Standard"
+date: "2021-03-01T14:21:43Z"
 draft: true
 # meta description
-description: "Learn how to create a ModernApps Ninja Course with the New Course Template"
+description: "This course provides an introductory technical overview to VMware Tanzu Basic and Tanzu Standard"
 # course thumbnail
-image: "https://modernapps.ninja/images/courses/course_repo_template_ct8279.jpg"
+image: "https://modernapps.ninja/introtanzustandard_ts7297/admin/assets/images/introtanzustandard_ts7297.jpg"
 # taxonomy
 tags: ["Tanzu Portfiolio"]
 # teacher
@@ -17,12 +17,12 @@ duration: "0 Hours"
 # course fee
 fee: "Free!"
 # apply url
-apply_url: "https://modernapps.github.io/course_repo_template_ct8279/"
+apply_url: "https://modernapps.github.io/introtanzustandard_ts7297"
 # type
 type: "course"
 ### Extended Ninja Course Metadata
-content_id: "ct8279"
-course_short_title: "course_repo_template"
-course_navbar_title: "New Course Template"
-course_repo_name: course_repo_template_ct8279
+content_id: ts7297
+course_short_title: introtanzustandard
+course_navbar_title: Intro to Tanzu Standard
+course_repo_name: introtanzustandard_ts7297
 ---
