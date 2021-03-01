@@ -1,5 +1,5 @@
 ---
-title: "TKG Features and Benefits"
+title: "Tanzu Kubernetes Grid Demo"
 date: 2020-10-12T18:40:54-07:00
 weight: 3030
 ---
