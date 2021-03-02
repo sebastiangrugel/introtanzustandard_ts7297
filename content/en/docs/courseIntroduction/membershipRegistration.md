@@ -6,6 +6,8 @@ weight: 1013
 ---
 ## Requirements for tests and course completion certificates
 
+**Please note, the tests and completion certificate for this course are still under development and should be posted within a few days.**
+
 ModernApps Ninja learning content is free and open to anyone to view, however to take tests and recieve certificates of completion for courses, you must sign up for a free community membership, **and** register for this course, per the instructions below. 
 
 ### Join the ModernApps Ninja Community!

@@ -19,8 +19,3 @@ are appreciated from small grammar improvements to bigger additions.
 Please describe your suggestions with as much detail as possible. If you
 would like to discuss directly with the course development team we would
 appreciate it!
-
-Please [submit a feedback ticket
-here](https://github.com/ModernAppsNinja/CourseFeedback/issues/new?assignees=&labels=COU-VT7933&template=COU-VT7933-feedback.md&title=),
-or feel free to reach out to afewell\@vmware.com with other feedback or
-suggestions.
