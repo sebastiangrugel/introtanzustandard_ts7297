@@ -4,6 +4,8 @@ date: 2020-10-12T18:34:25-07:00
 weight: 1013
 
 ---
+{{< youtube Ad4ObhsOaJk >}}
+
 ## Requirements for tests and course completion certificates
 
 **Please note, the tests and completion certificate for this course are still under development and should be posted within a few days.**
