@@ -46,52 +46,63 @@ Please right click the following link to the test answer response sheet and sele
 
 ### Section 1 Test Questions
 
-#### **Question1:** Industry Challenges with Cloud Infrastructure include ... <!-- omit in toc -->
+#### **Question1:** Which of the following products are included in Tanzu Basic: (Select 3) <!-- omit in toc -->
 
-**Please select the best response from the following to complete the statement in Question1:**
-
-```yml
-Answers:
-  a: App Modernization
-  b: Cloud Operating Model 
-  c: Artificial Intelligence and Machine Learning 
-  d: Data Privacy and Security Policies 
-  e: All of the above
-```
-
-#### **Question2:** vSphere with Tanzu allows you to bring your own networking and storage. And, ...?  <!-- omit in toc -->
-
-**Please select the best response from the following to complete the statement:**
+**Please select the best 3 responses from the following:**
 
 ```yml
 Answers:
-  a: handles full IaaS stack at scale infrastructure and lifecycle management.
-  b: is the fastest way to get started with Kubernetes workloads.
-  c: is the best way to run Kubernetes at scale.
+  a: Tanzu Kubernetes Grid on supported versions of VMware vSphere, Running on customer premise
+  b: Tanzu Build Service 
+  c: Tanzu Mission Control Standard
+  d: Tanzu Observability
+  e: vSphere with Tanzu, Running on customer premise or supported cloud provider
+  f: vSphere with Tanzu, Running on customer premise
+  g: Tanzu Kubernetes Grid on supported versions of VMware vSphere, Running on customer premise or cloud provider
 ```
 
-#### **Question3:** VCF with Tanzu ...? <!-- omit in toc -->
+#### **Question2:** Which of the following features and services are included in Tanzu Basic: (Select 3) <!-- omit in toc -->
 
-**Select 3 of the following choices that could accurately complete the statement above:**
+**Please select the best 3 responses from the following:**
 
 ```yml
 Answers:
-  a: has advanced automation, troubleshooting, and observability of networking storage, and integrated L4 and L7 load balancing.
-  b: is the fastest way to get started with Kubernetes workloads.
-  c: provides full stack IaaS stack at scale.
-  d: is the best way to run Kubernetes workloads at scale.
+  a: Kubernetes Cluster Lifecycle Management
+  b: Container Build Service
+  c: AMQP Message Broker Service
+  d: Site-Local Cluster Monitoring
+  e: Global Cluster Monitoring
+  f: Container Registry
 ```
 
-#### **Question4:** Features and benefits of vSphere with Tanzu include: <!-- omit in toc -->
+#### **Question3:** Which of the following products are included in Tanzu Standard: (Select 3) <!-- omit in toc -->
 
-**Select 3 of the following choices that best complete the statement above:**
+**Please select the best 3 responses from the following:**
 
 ```yml
 Answers:
-  a: Manage cost in the cloud
-  b: Deliver Developer Ready Infrastructure
-  c: Align DevOps and IT
-  d: Simplify IT Operations
+  a: Tanzu Kubernetes Grid on supported versions of VMware vSphere, Running on customer premise
+  b: Tanzu Build Service 
+  c: Tanzu Mission Control Standard
+  d: Tanzu Observability
+  e: vSphere with Tanzu, Running on supported cloud provider infrastructure
+  f: vSphere with Tanzu, Running on customer premise
+  g: Tanzu Kubernetes Grid on supported versions of VMware vSphere, Running on cloud provider infrastructure
 ```
+
+#### **Question4:** Which of the following features and services are included in Tanzu Standard: (Select 3) <!-- omit in toc -->
+
+**Please select the best 3 responses from the following:**
+
+```yml
+Answers:
+  a: Kubernetes Cluster Lifecycle Management
+  b: Container Build Service
+  c: AMQP Message Broker Service
+  d: Site-Local Cluster Monitoring
+  e: Global Cluster Monitoring
+  f: Container Registry
+```
+
 
 ##### This concludes the section 1 test. Please use the navigation bar to proceed to the next page.
