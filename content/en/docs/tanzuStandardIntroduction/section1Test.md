@@ -1,7 +1,7 @@
 ---
 title: "Section 1 Test"
 date: 2020-10-09T03:15:26-07:00
-weight: 2190
+weight: 2090
 ---
 
 All Modernapps Ninja learning content is publicly accessible and available openly, however a free membership is required to take tests and recieve a certificate of completion for the course. You must first [join the community](https://modernapps.ninja/about/membership/) and register for this course per the instructions in the course introduction section before attempting to submit a test.
@@ -28,7 +28,7 @@ All questions will provide a list of possible answers. Each possible answer is r
 
 The Answer sheet will open in Github's web-based editor, similar to the image shown below:
 
-![Example Test Response Sheet](/vspheretanzu101_vt7301/admin/assets/images/blank_test_screen_example.png)  
+![Example Test Response Sheet](/introtanzustandard_ts7297/admin/assets/images/blank_test_screen_example.png)  
 
 After you fill in your answer sheet, you will submit  your responses as a git [pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) following the instructions provided below, which will trigger a workflow that will grade your responses and provide your test grading sheet. 
 
@@ -42,7 +42,7 @@ It is important that you follow the instructions carefully to ensure the automat
 
 Please right click the following link to the test answer response sheet and select to open it in a new tab. The questions for this test will be provided below in this page, but you will need to enter your responses in the answer response sheet. 
 
-[test1 Answer Response Sheet](https://github.com/modernappsninja/vspheretanzu101_vt7301/edit/main/static/admin/userdata/tests/test1.yml)  
+[test1 Answer Response Sheet](https://github.com/modernappsninja/introtanzustandard_ts7297/edit/main/static/admin/userdata/tests/test1.yml)  
 
 ### Section 1 Test Questions
 
