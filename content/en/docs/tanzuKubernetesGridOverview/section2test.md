@@ -1,8 +1,11 @@
 ---
-title: "Section 1 Test"
+title: "Section 2 Test"
 date: 2020-10-09T03:15:26-07:00
 weight: 2190
 ---
+
+**Please note: The tests and certificate for this course are still under development, please do not take the test at this time. The tests should be live very soon so please check back shortly!** 
+
 
 All Modernapps Ninja learning content is publicly accessible and available openly, however a free membership is required to take tests and recieve a certificate of completion for the course. You must first [join the community](https://modernapps.ninja/about/membership/) and register for this course per the instructions in the course introduction section before attempting to submit a test.
 
@@ -11,8 +14,8 @@ Ninja tests use devops tools and processes so the testing system itself provides
 - [Instructions](#instructions)
   - [Full Test Instructions](#full-test-instructions)
   - [Test Answer Response Sheet](#test-answer-response-sheet)
-  - [Section 1 Test Questions](#section-1-test-questions)
-      - [This concludes the section 1 test. Please use the navigation bar to proceed to the next page.](#this-concludes-the-section-1-test-please-use-the-navigation-bar-to-proceed-to-the-next-page)
+  - [Section 2 Test Questions](#section-2-test-questions)
+      - [This concludes the section 2 test. Please use the navigation bar to proceed to the next page.](#this-concludes-the-section-2-test-please-use-the-navigation-bar-to-proceed-to-the-next-page)
 
 {{< youtube J_nV5YPypqs >}}
 
@@ -28,7 +31,7 @@ All questions will provide a list of possible answers. Each possible answer is r
 
 The Answer sheet will open in Github's web-based editor, similar to the image shown below:
 
-![Example Test Response Sheet](/vspheretanzu101_vt7301/admin/assets/images/blank_test_screen_example.png)  
+![Example Test Response Sheet](/introtanzustandard_ts7297/admin/assets/images/blank_test_screen_example.png)  
 
 After you fill in your answer sheet, you will submit  your responses as a git [pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) following the instructions provided below, which will trigger a workflow that will grade your responses and provide your test grading sheet. 
 
@@ -42,56 +45,121 @@ It is important that you follow the instructions carefully to ensure the automat
 
 Please right click the following link to the test answer response sheet and select to open it in a new tab. The questions for this test will be provided below in this page, but you will need to enter your responses in the answer response sheet. 
 
-[test1 Answer Response Sheet](https://github.com/modernappsninja/vspheretanzu101_vt7301/edit/main/static/admin/userdata/tests/test1.yml)  
+[test2 Answer Response Sheet](https://github.com/modernappsninja/introtanzustandard_ts7297/edit/main/static/admin/userdata/tests/test2.yml)  
 
-### Section 1 Test Questions
+### Section 2 Test Questions
 
-#### **Question1:** Industry Challenges with Cloud Infrastructure include ... <!-- omit in toc -->
+#### **Question1:** In Kubernetes what is the name of the node type that runs container workloads? <!-- omit in toc -->
 
-**Please select the best response from the following to complete the statement in Question1:**
-
-```yml
-Answers:
-  a: App Modernization
-  b: Cloud Operating Model 
-  c: Artificial Intelligence and Machine Learning 
-  d: Data Privacy and Security Policies 
-  e: All of the above
-```
-
-#### **Question2:** vSphere with Tanzu allows you to bring your own networking and storage. And, ...?  <!-- omit in toc -->
-
-**Please select the best response from the following to complete the statement:**
+**Please select the best response:**
 
 ```yml
 Answers:
-  a: handles full IaaS stack at scale infrastructure and lifecycle management.
-  b: is the fastest way to get started with Kubernetes workloads.
-  c: is the best way to run Kubernetes at scale.
+  a: Master
+  b: Server
+  c: Worker
+  d: Supervisor
+  e: Employee
 ```
 
-#### **Question3:** VCF with Tanzu ...? <!-- omit in toc -->
+#### **Question2:** The Kubernetes object type used to define a container is?  <!-- omit in toc -->
 
-**Select 3 of the following choices that could accurately complete the statement above:**
+**Please select the best response:**
 
 ```yml
 Answers:
-  a: has advanced automation, troubleshooting, and observability of networking storage, and integrated L4 and L7 load balancing.
-  b: is the fastest way to get started with Kubernetes workloads.
-  c: provides full stack IaaS stack at scale.
-  d: is the best way to run Kubernetes workloads at scale.
+  a: Image
+  b: Target
+  c: Pod
+  d: ReplicaSet
 ```
 
-#### **Question4:** Features and benefits of vSphere with Tanzu include: <!-- omit in toc -->
+#### **Question3:** When you deploy Kubernetes on vSphere using the vSphere CPI, what vSphere object type is used to provide Persistent Volumes to Kubernetes workloads? <!-- omit in toc -->
 
-**Select 3 of the following choices that best complete the statement above:**
+**Please select the best response:**
 
 ```yml
 Answers:
-  a: Manage cost in the cloud
-  b: Deliver Developer Ready Infrastructure
-  c: Align DevOps and IT
-  d: Simplify IT Operations
+  a: OVA
+  b: Datastore
+  c: Software-Defined Storage
+  d: iSCSI Target
 ```
 
-##### This concludes the section 1 test. Please use the navigation bar to proceed to the next page.
+#### **Question4:** Which of the following services is included in a generally available open source Kubernetes distribution? <!-- omit in toc -->
+
+**Please select the best response:**
+
+```yml
+Answers:
+  a: a supported ingress controller
+  b: East/West or Pod-to-Pod Load Balancing
+  c: Automated deployment of Kubernetes clusters on-demand
+  d: North/South or Inbound/Outbound Load Balancing
+```
+
+#### **Question5:** Which of the following is NOT a feature of Tanzu Kubernetes Grid <!-- omit in toc -->
+
+**Please select the best response:**
+
+```yml
+Answers:
+  a: Integrated Logging Agents and Exporter
+  b: Multi-Cloud Cluster Management
+  c: Offline Installation
+  d: Cluster Lifecycle Management
+```
+
+#### **Question6:** TKG installation is supported on which of the following infrastructure platforms? (Select 4) <!-- omit in toc -->
+
+**Please select the best 4 options:**
+
+```yml
+Answers:
+  a: vSphere
+  b: OpenStack
+  c: Amazon Web Services
+  d: Google Compute Engine
+  e: Microsoft Windows Server 2012 R2
+  f: Red Hat Enterprise Virtualization
+  g: Microsoft Azure
+```
+
+#### **Question7:** Which of the following are features and benefits of Tanzu Kubernetes Grid (Select 3) <!-- omit in toc -->
+
+**Please select the best 3 responses:**
+
+```yml
+Answers:
+  a: Automated multicluster operations
+  b: Apply access, networking, and container registry policy consistently to a fleet of clusters
+  c: Extends the same consistent Kubernetes runtime across your public cloud and edge environments
+  d: A continuously maintained catalog of open-source components and applications
+  e: Includes local and in-cluster platform services including logging, monitoring, networking, and storage services
+  f: Monitor full-stack applications to cloud infrastructures with metrics, traces, span logs, and analytics
+```
+
+#### **Question8:** Which of the following services are packaged with Tanzu Kubernetes Grid (Select 3) <!-- omit in toc -->
+
+**Please select the best 3 responses:**
+
+```yml
+Answers:
+  a: Container Registry Service (Harbor)
+  b: Global Site Load-Balancing Service
+  c: Logging Agent and Exporter Services
+  d: Authentication Services
+  e: Distributed Tracing Service
+```
+
+#### **Question9:** True or False: Tanzu Kubernetes Grid Management Cluster can attach and manage externally created kubernetes clusters? <!-- omit in toc -->
+
+**Please select "a" for true, or select "b" for false:**
+
+```yml
+Answers:
+  a: True
+  b: False
+```
+
+##### This concludes the section 2 test. Please use the navigation bar to proceed to the next page.
