@@ -39,14 +39,14 @@
 &lt;p>Every question in this test is titled &amp;ldquo;Question&amp;rdquo; followed by its order, for example Question1, Question2 etc&amp;hellip;&lt;/p>
 &lt;p>All questions will provide a list of possible answers. Each possible answer is represented by a lowercase letter, the first response is option &amp;ldquo;a&amp;rdquo;, the second is option &amp;ldquo;b&amp;rdquo; and so on, as shown in the example questions below.&lt;/p>
 &lt;p>The Answer sheet will open in Github&amp;rsquo;s web-based editor, similar to the image shown below:&lt;/p>
-&lt;p>&lt;img src="https://modernappsninja.github.io/introtanzustandard_ts7297/vspheretanzu101_vt7301/admin/assets/images/blank_test_screen_example.png" alt="Example Test Response Sheet">&lt;/p>
+&lt;p>&lt;img src="https://modernappsninja.github.io/introtanzustandard_ts7297/introtanzustandard_ts7297/admin/assets/images/blank_test_screen_example.png" alt="Example Test Response Sheet">&lt;/p>
 &lt;p>After you fill in your answer sheet, you will submit your responses as a git &lt;a href="https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests">pull request&lt;/a> following the instructions provided below, which will trigger a workflow that will grade your responses and provide your test grading sheet.&lt;/p>
 &lt;h3 id="full-test-instructions">Full Test Instructions&lt;/h3>
 &lt;p>If this is the first test you have taken, or if you have an questions at all about how to propely complete the test answer sheet or the test grading service, please review the full &lt;a href="https://modernapps.ninja/course_repo_template_ct8279/docs/reference/testinstructions/">How to Take a Test Instructions&lt;/a>.&lt;/p>
 &lt;p>It is important that you follow the instructions carefully to ensure the automated grading process completes successfully.&lt;/p>
 &lt;h3 id="test-answer-response-sheet">Test Answer Response Sheet&lt;/h3>
 &lt;p>Please right click the following link to the test answer response sheet and select to open it in a new tab. The questions for this test will be provided below in this page, but you will need to enter your responses in the answer response sheet.&lt;/p>
-&lt;p>&lt;a href="https://github.com/modernappsninja/vspheretanzu101_vt7301/edit/main/static/admin/userdata/tests/test1.yml">test1 Answer Response Sheet&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://github.com/modernappsninja/introtanzustandard_ts7297/edit/main/static/admin/userdata/tests/test1.yml">test1 Answer Response Sheet&lt;/a>&lt;/p>
 &lt;h3 id="section-1-test-questions">Section 1 Test Questions&lt;/h3>
 &lt;h4 id="question1-which-of-the-following-products-are-included-in-tanzu-basic-select-3----omit-in-toc---">&lt;strong>Question1:&lt;/strong> Which of the following products are included in Tanzu Basic: (Select 3) &lt;!-- omit in toc -->&lt;/h4>
 &lt;p>&lt;strong>Please select the best 3 responses from the following:&lt;/strong>&lt;/p>
