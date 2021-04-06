@@ -118,8 +118,8 @@ Answers:
 Answers:
   a: vSphere
   b: OpenStack
-  c: Amazon Web Services
-  d: Google Compute Engine
+  c: Amazon Web Services EC2
+  d: VMware Cloud on AWS
   e: Microsoft Windows Server 2012 R2
   f: Red Hat Enterprise Virtualization
   g: Microsoft Azure
@@ -147,7 +147,7 @@ Answers:
 Answers:
   a: Container Registry Service (Harbor)
   b: Global Site Load-Balancing Service
-  c: Logging Agent and Exporter Services
+  c: Logging Services
   d: Authentication Services
   e: Distributed Tracing Service
 ```
@@ -158,8 +158,89 @@ Answers:
 
 ```yml
 Answers:
-  a: True
-  b: False
+  a: true
+  b: false
+```
+
+#### **Question10:** Please select the most correct statement from the options below <!-- omit in toc -->
+
+**Please select the best response:**
+
+```yml
+Answers:
+  a: TKG uses a Workload Cluster to automate the deployment of Management Clusters
+  b: TKG Uses a Management Cluster to automate the deployment of Workload Clusters
+```
+
+#### **Question11:** Which of the following attributes can be defined in a Cluster Plan? (Select 2) <!-- omit in toc -->
+
+**Please select the best 2 responses:**
+
+```yml
+Answers:
+  a: Node Machine Size
+  b: Stateful Set
+  c: Hypervisor Type
+  d: Quantity of Master/Control Plane Nodes
+```
+
+#### **Question12:** True or False: All TKG Editions Deploy the same Kubernetes Binaries on Workload Clusters? <!-- omit in toc -->
+
+**Please select "a" for true, or select "b" for false:**
+
+```yml
+Answers:
+  a: true
+  b: false
+```
+
+#### **Question13:** Which of the following components are included with Tanzu Kubernetes Grid? <!-- omit in toc -->
+
+**Please select the best 3 responses:**
+
+```yml
+Answers:
+  a: Integrated Developer Environment
+  b: Container Runtime
+  c: OVA or Cloud Provider Images for Installation on Supported IaaS Environments
+  d: Supported Kubernetes CNI Conformant Networking Options
+  e: SaaS Based Management Portal
+```
+
+#### **Question14:** Tanzu Kubernetes Grid uses the _____ Kubernetes Project automate the creation of kubernetes clusters  <!-- omit in toc -->
+
+**Please select the best response to fill in the blank word:**
+
+```yml
+Answers:
+  a: kubespray
+  b: BOSH
+  c: Cluster API
+  d: vRealize Automation
+
+```
+
+#### **Question15:** Tanzu Kubernetes Grid uses the _____ Open Source Software for Data Protection to backup and restore Kubernetes objects <!-- omit in toc -->
+
+**Please select the best response to fill in the blank word:**
+
+```yml
+Answers:
+  a: Sonobuoy
+  b: Velero
+  c: Contour
+```
+
+#### **Question16:** _________ ______ is a Kubernetes project to bring declarative, Kubernetes-style APIs to cluster creation, configuration, and management. <!-- omit in toc -->
+
+**Please select the best response to fill in the blank words:**
+
+```yml
+Answers:
+  a: CloudFoundry BOSH
+  b: Cluster API
+  c: Project Pacific
+  d: Cloud Config
 ```
 
 ##### This concludes the section 2 test. Please use the navigation bar to proceed to the next page.

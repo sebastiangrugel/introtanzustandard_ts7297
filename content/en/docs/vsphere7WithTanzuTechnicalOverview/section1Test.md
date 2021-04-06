@@ -96,4 +96,33 @@ Answers:
   d: Simplify IT Operations
 ```
 
+
+
+
+
+
+
+
+
+
+
+#### **Question14:** Which of the following services are packaged with Tanzu Kubernetes Grid (Select 3) <!-- omit in toc -->
+
+**Please select the best 3 responses:**
+
+```yml
+Answers:
+  a: Container Registry Service (Harbor)
+  b: Global Site Load-Balancing Service
+  c: Logging Services
+  d: Authentication Services
+  e: Distributed Tracing Service
+```
+
+>>Please select the most correct statement from the options below <<
+
+( ) Use the Tanzu Kubernetes Grid Installer to install TKG on vSphere 7
+(x) TKG Service is embedded in vSphere 7 with Kubernetes
+
+
 ##### This concludes the section 1 test. Please use the navigation bar to proceed to the next page.
