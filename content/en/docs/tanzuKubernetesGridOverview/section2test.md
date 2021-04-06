@@ -1,7 +1,7 @@
 ---
 title: "Section 2 Test"
 date: 2020-10-09T03:15:26-07:00
-weight: 2190
+weight: 3190
 ---
 
 **Please note: The tests and certificate for this course are still under development, please do not take the test at this time. The tests should be live very soon so please check back shortly!** 
