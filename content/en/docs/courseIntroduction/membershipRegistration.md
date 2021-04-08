@@ -36,7 +36,7 @@ The following link will direct your browser to a github web-based document edito
 
 Please right click the following link and select the option to open it in a new browser tab, so you can keep this instruction page open in the current tab to guide you through the process. 
 
-[Right Click Here and select the option to open link in new tab to view the course registration form](https://github.com/modernappsninja/course_repo_template_ct8279/new/main/static/admin/userdata/registered_members)
+[Right Click Here and select the option to open link in new tab to view the course registration form](https://github.com/modernappsninja/introtanzustandard_ts7297/new/main/static/admin/userdata/registered_members)
 
 #### Step 2 - Name your file
 

@@ -4,8 +4,6 @@ date: 2020-10-09T03:15:26-07:00
 weight: 4190
 ---
 
-**Please note: The tests and certificate for this course are still under development, please do not take the test at this time. The tests should be live very soon so please check back shortly!** 
-
 All Modernapps Ninja learning content is publicly accessible and available openly, however a free membership is required to take tests and recieve a certificate of completion for the course. You must first [join the community](https://modernapps.ninja/about/membership/) and register for this course per the instructions in the course introduction section before attempting to submit a test.
 
 Ninja tests use devops tools and processes so the testing system itself provides both experience with and validation of foundational devops skills. 
