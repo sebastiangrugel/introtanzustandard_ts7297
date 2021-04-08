@@ -5,7 +5,6 @@ weight: 1015
 
 ---
 This course is designed for Information Technology Professionals
-interested in learning more about VMware vSphere with Tanzu.
+interested in learning more about VMware vSphere with Tanzu, Tanzu Kubernetes Grid and Tanzu Mission Control.
 
-Please complete the course prerequisites and review the lab completion
-difficulty to ensure you are fully prepared to succeed in this course.
+Please complete the course prerequisites to ensure you are fully prepared to succeed in this course.
