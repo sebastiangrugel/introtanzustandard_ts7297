@@ -75,9 +75,9 @@ Answers:
   f: Container Registry
 ```
 
-#### **Question3:** Which of the following products are included in Tanzu Standard: (Select 3) <!-- omit in toc -->
+#### **Question3:** Which of the following products are included in Tanzu Standard: (Select 5) <!-- omit in toc -->
 
-**Please select the best 3 responses from the following:**
+**Please select the best 5 responses from the following:**
 
 ```yml
 Answers:
@@ -90,9 +90,9 @@ Answers:
   g: Tanzu Kubernetes Grid on supported versions of VMware vSphere, running on cloud provider infrastructure
 ```
 
-#### **Question4:** Which of the following features and services are included in Tanzu Standard: (Select 3) <!-- omit in toc -->
+#### **Question4:** Which of the following features and services are included in Tanzu Standard: (Select 4) <!-- omit in toc -->
 
-**Please select the best 3 responses from the following:**
+**Please select the best 4 responses from the following:**
 
 ```yml
 Answers:
