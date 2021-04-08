@@ -52,13 +52,13 @@ Please right click the following link to the test answer response sheet and sele
 
 ```yml
 Answers:
-  a: Tanzu Kubernetes Grid on supported versions of VMware vSphere, Running on customer premise
+  a: Tanzu Kubernetes Grid on supported versions of VMware vSphere, running on customer premises
   b: Tanzu Build Service 
   c: Tanzu Mission Control Standard
   d: Tanzu Observability
-  e: vSphere with Tanzu, Running on customer premise or supported cloud provider
-  f: vSphere with Tanzu, Running on customer premise
-  g: Tanzu Kubernetes Grid on supported versions of VMware vSphere, Running on customer premise or cloud provider
+  e: vSphere with Tanzu, Running on customer premises or supported cloud provider
+  f: vSphere with Tanzu, Running on customer premises
+  g: Tanzu Kubernetes Grid on supported versions of VMware vSphere, running on customer premises or cloud provider
 ```
 
 #### **Question2:** Which of the following features and services are included in Tanzu Basic: (Select 3) <!-- omit in toc -->
@@ -81,13 +81,13 @@ Answers:
 
 ```yml
 Answers:
-  a: Tanzu Kubernetes Grid on supported versions of VMware vSphere, Running on customer premise
+  a: Tanzu Kubernetes Grid on supported versions of VMware vSphere, running on customer premises
   b: Tanzu Build Service 
   c: Tanzu Mission Control Standard
   d: Tanzu Observability
   e: vSphere with Tanzu, Running on supported cloud provider infrastructure
-  f: vSphere with Tanzu, Running on customer premise
-  g: Tanzu Kubernetes Grid on supported versions of VMware vSphere, Running on cloud provider infrastructure
+  f: vSphere with Tanzu, Running on customer premises
+  g: Tanzu Kubernetes Grid on supported versions of VMware vSphere, running on cloud provider infrastructure
 ```
 
 #### **Question4:** Which of the following features and services are included in Tanzu Standard: (Select 3) <!-- omit in toc -->
