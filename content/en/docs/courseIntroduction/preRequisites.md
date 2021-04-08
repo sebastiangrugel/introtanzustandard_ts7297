@@ -6,7 +6,7 @@ weight: 1020
 
 We recommend taking the [Introduction to VMware Tanzu
 Portfolio](https://lms.modernapps.ninja/courses/course-v1:modernapps+COU-TP6539+Perpetual/course/) course
-prior to taking the vSphere with Tanzu 101 course. 
+prior to taking the Intro to Tanzu Standard course. 
 
 This course assumes familiarity with Kubernetes and Cloud Native
 Technologies. If you are not familiar with these technologies, we
