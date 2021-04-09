@@ -1,7 +1,7 @@
 ---
 ## This Document Provides the Front Matter and Metadata for the Course Information page used in the modernapps.ninja homepage and the member profile page.
 ### Hugo Template Metadata
-title: "VMware Tanzu Standard 101"
+title: "Intro to VMware Tanzu Standard"
 date: "2021-03-01T14:21:43Z"
 draft: true
 # meta description
@@ -23,6 +23,6 @@ type: "course"
 ### Extended Ninja Course Metadata
 content_id: ts7297
 course_short_title: introtanzustandard
-course_navbar_title: Tanzu Standard 101
+course_navbar_title: Intro to Tanzu Standard
 course_repo_name: introtanzustandard_ts7297
 ---
